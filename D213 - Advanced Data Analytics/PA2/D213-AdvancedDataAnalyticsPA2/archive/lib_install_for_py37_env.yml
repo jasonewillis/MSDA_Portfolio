@@ -1,0 +1,20 @@
+# Standard libraries
+
+gzip # for reading compressed files
+numpy # Array manipulation
+pandas # DataFrame manipulation
+re # regex
+seaborn # for plotting
+pmdarima
+matplotlib
+scipy
+sklearn
+warnings
+joblib
+
+
+sys
+os # System and OS commands
+
+tensorflow
+keras
