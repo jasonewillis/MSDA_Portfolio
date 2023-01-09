@@ -1,0 +1,19 @@
+## Predictive Modeling Project (D208)
+### Data Preparation and Cleaning for Hospital Readmissions Analysis
+- The goal of our analysis is to investigate given data to support or reject the hypothesis. 
+ -- Do the following three predictors: Initial Days, Readmissions, and Diabetes explain the variation in Total Charges?
+- Some data will need to be converted from categorical to numerical data types in order to analyze and process. 
+- Our objective is to see how, if at all, a patient’s initial inpatient Multiple Regression for Predictive Modeling 4 days, age and the reason for their initial ad data correlate with the total charges incurred through
+patient care.
+
+
+
+
+### Code:
+
+![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/PCA_ScreePlot.png?raw=true "Scree Plot")
+
+
+### Heat Map: 
+
+![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/HeatMap.png?raw=true "Heat Map")
