@@ -1,15 +1,14 @@
 ## My MS in Data Analytics Portfolio
 
-**Will complete portfolio after capstone is completed, approx Dec 2022**
+### Projects:
 
-
-- [Data Cleaning Project (D206)](https://github.com/jasonewillis/D206DataCleaning)
-- [Exploratory Data Analytics Project (D207)](https://github.com/jasonewillis/D207ExploratoryDataAnalytics)
-
-- [Predictive Modeling (D208)] (https://github.com/jasonewillis/D208_PredictiveModeling)
+- [Data Cleaning](https://github.com/jasonewillis/D206DataCleaning)
+- [Exploratory Data Analytics](https://github.com/jasonewillis/D207ExploratoryDataAnalytics)
+- [Predictive Modeling](https://github.com/jasonewillis/D208_PredictiveModeling)
+- 
 - Data Mining I
 - Representation and Reporpting
 - Advanced Data Azquisition
-- Data Mining II
+- [Data Mining II](https://github.com/jasonewillis/D212---Data-Mining-II)
 - Advanced Data Analytics
 - Capstone Project
