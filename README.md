@@ -6,7 +6,7 @@
 - [Data Cleaning Project (D206)](https://github.com/jasonewillis/D206DataCleaning)
 - [Exploratory Data Analytics Project (D207)](https://github.com/jasonewillis/D207ExploratoryDataAnalytics)
 
-- Predictive Modeling (D208) Current Class
+- [Predictive Modeling (D208)] (https://github.com/jasonewillis/D208_PredictiveModeling)
 - Data Mining I
 - Representation and Reporpting
 - Advanced Data Azquisition
