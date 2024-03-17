@@ -12,7 +12,7 @@
 
 ### Scree Plot:
 
-![alt text]([HeatMap.png](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D206_DataCleaning/PCA_ScreePlot.png?raw=true "Scree Plot")
+![alt text](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D206_DataCleaning/PCA_ScreePlot.png?raw=true "Scree Plot")
 
 
 ### Heat Map: 
