@@ -8,6 +8,6 @@
 - [D209 - Data Mining I](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D209_DataMiningI/D209_DataMining_I_ReadMe.md)
 - Representation and Reporting - Proj not uploaded
 - Advanced Data Acquisition - Proj not uploaded
-- [D212 - Data Mining II](https://github.com/jasonewillis/D212---Data-Mining-II)
-- [213 - Advanced Data Analytics](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D213_AdvancedDataAnalytics/AdvDA_README.md)
+- [D212 - Data Mining II](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D212_DataMiningII/D212_DataMining_II_ReadMe.md)
+- [D213 - Advanced Data Analytics](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D213_AdvancedDataAnalytics/AdvDA_README.md)
 - [D214 - Capstone Project](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D214_Capstone/Capstone_README.md)
