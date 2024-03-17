@@ -5,7 +5,7 @@
 - The goal of our analysis is to leverage time series modeling techniques to forecast the daily revenue of our company’s next quarter.  
   - Then, to provide our pattern understandings, analysis and findings to company executives so they can understand readmission impacts in current times.
 
-[Advanced Data Analytics PA1 Code](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D213_AdvancedDataAnalytics/D213-AdvancedDataAnalyticsPA1_jw.pdf)
+[Advanced Data Analytics PA1 Code](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D213_AdvancedDataAnalytics/D213-AdvancedDataAnalyticsPA1.pdf)
 
 
 
