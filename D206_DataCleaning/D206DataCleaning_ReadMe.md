@@ -12,12 +12,12 @@
 
 ### Scree Plot:
 
-![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/PCA_ScreePlot.png?raw=true "Scree Plot")
+![alt text]([HeatMap.png](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D206_DataCleaning/PCA_ScreePlot.png?raw=true "Scree Plot")
 
 
 ### Heat Map: 
 
-![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/HeatMap.png?raw=true "Heat Map")
+![alt text](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D206_DataCleaning/HeatMap.png?raw=true "Heat Map")
 
 
 
