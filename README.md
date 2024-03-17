@@ -2,12 +2,12 @@
 
 ### Projects:
 
-- [Data Cleaning](https://github.com/jasonewillis/D206DataCleaning)
-- [Exploratory Data Analytics](https://github.com/jasonewillis/D207ExploratoryDataAnalytics)
-- [Predictive Modeling](https://github.com/jasonewillis/D208_PredictiveModeling)
-- [Data Mining I](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D209%20-%20Data%20Mining%20I/D209_PA_1/DataMiningI_README.md)
-- Representation and Reporting - Proj not uploaded
-- Advanced Data Acquisition - Proj not uploaded
-- [Data Mining II](https://github.com/jasonewillis/D212---Data-Mining-II)
-- [Advanced Data Analytics](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D213_AdvancedDataAnalytics/AdvDA_README.md)
-- [Capstone Project](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D214_Capstone/Capstone_README.md)
+- [D206 - Data Cleaning](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D206_DataCleaning/D206DataCleaning_ReadMe.md)
+- [D207 - Exploratory Data Analytics](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D207-ExploratoryDataAnalytic/D207-ExploratoryDataAnalytics_ReadMe.md)
+- [D208 - Predictive Modeling](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D208_PredictiveModeling/D208_PredictiveModeling_ReadMe.md)
+- [D209 - Data Mining I](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D209_DataMiningI/D209_DataMining_I_ReadMe.md)
+- D210 - Representation and Reporting - No code for this project.
+- D211 - Advanced Data Acquisition - No code for this project.
+- [D212 - Data Mining II](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D212_DataMiningII/D212_DataMining_II_ReadMe.md)
+- [D213 - Advanced Data Analytics](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D213_AdvancedDataAnalytics/AdvDA_README.md)
+- [D214 - Capstone Project](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D214_Capstone/Capstone_README.md)
