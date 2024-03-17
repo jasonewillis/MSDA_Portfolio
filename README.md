@@ -4,7 +4,7 @@
 
 - [D206 - Data Cleaning](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D208_PredictiveModeling/D208_PredictiveModeling_ReadMe.md)
 - [D207 - Exploratory Data Analytics](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D207-ExploratoryDataAnalytic/D207-ExploratoryDataAnalytics_ReadMe.md)
-- [D208 - Predictive Modeling](https://github.com/jasonewillis/D208_PredictiveModeling)
+- [D208 - Predictive Modeling](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D208_PredictiveModeling/D208_PredictiveModeling_ReadMe.md)
 - [D209 - Data Mining I](https://github.com/jasonewillis/MSDA_Portfolio/blob/main/D209_DataMiningI/D209_DataMining_I_ReadMe.md)
 - D210 - Representation and Reporting - No code for this project.
 - D211 - Advanced Data Acquisition - No code for this project.
